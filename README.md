@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Marcin</h1>
 
- I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.
+ <h3>I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.</h3>
 
 ![Alt Text](https://c.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
 
