@@ -7,7 +7,7 @@
 # Checkout my projects!
 - https://github.com/marcinkaczmarek10/pairs_generator_flask
 
-# Code Wars badge!
+# Code Wars!
 ![Alt Text](https://www.codewars.com/users/rzekotkaGG/badges/large)
 - https://www.codewars.com/users/rzekotkaGG
 
