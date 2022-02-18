@@ -1,6 +1,6 @@
 # Hi there, I'm Marcin! 
 
-## **I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.**
+## ***I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.***
 
 ![Alt Text](https://c.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
 
