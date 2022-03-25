@@ -4,7 +4,7 @@
 
 ![Alt Text](https://c.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif)
 
-# Checkout my projects!
+# Checkout my projects
 - https://github.com/marcinkaczmarek10/pairs_generator_flask
 
 # Code Wars!
