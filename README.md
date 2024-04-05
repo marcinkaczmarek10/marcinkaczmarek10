@@ -6,6 +6,7 @@
 
 # Checkout my projects!
 - https://github.com/marcinkaczmarek10/pairs_generator_flask
+- https://github.com/marcinkaczmarek10/fastpi_template
 
 # Code Wars!
 ![Alt Text](https://www.codewars.com/users/rzekotkaGG/badges/large)
