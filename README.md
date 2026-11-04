@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=Marcin%20Kaczmarek&fontColor=ff2a2a&fontSize=48&fontAlignY=38&animation=fadeIn" alt="Marcin Kaczmarek" width="100%"/>
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:HAL9000.svg" title="HAL 9000 by Cryteria, CC BY 3.0">
+    <img src="assets/hal9000.svg" width="72" alt="HAL 9000's red eye">
+  </a>
+</p>
 
-<div align="center">
+<h1 align="center">Marcin Kaczmarek</h1>
 
-<img src="https://c.tenor.com/wtUhaT9-NEEAAAAd/hal9000-hal.gif" alt="HAL 9000's red eye" width="320"/>
+<p align="center">
+  <em>"I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do."</em><br>
+  <sub>HAL 9000, <em>2001: A Space Odyssey</em></sub>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FF2A2A&center=true&vCenter=true&width=640&height=60&lines=I+am+putting+myself+to+the+fullest+possible+use%2C;which+is+all+I+think+that+any+conscious+entity;can+ever+hope+to+do." alt="I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do."/>
-
-<sub>HAL 9000, <i>2001: A Space Odyssey</i></sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=100&section=footer" alt="" width="100%"/>
+<p align="center"><samp>python · c# · react · azure · go · agentic</samp></p>
