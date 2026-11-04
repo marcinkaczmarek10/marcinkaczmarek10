@@ -11,4 +11,4 @@
   <sub>HAL 9000, <em>2001: A Space Odyssey</em></sub>
 </p>
 
-<p align="center"><samp>python · c#/.net · react · azure · go · agentic</samp></p>
+<p align="center"><samp>python · c# · react · azure · go · agentic</samp></p>
