@@ -11,4 +11,4 @@
   <sub>HAL 9000, <em>2001: A Space Odyssey</em></sub>
 </p>
 
-<p align="center"><samp>python · fastapi · go · c#/.net · typescript · react · mongodb · kubernetes · helm</samp></p>
+<p align="center"><samp>python · c#/.net · react · azure · go · agentic</samp></p>
