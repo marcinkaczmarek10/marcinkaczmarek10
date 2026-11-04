@@ -1,6 +1,6 @@
 # Marcin Kaczmarek
 
-Backend engineer at EcoVadis, Warsaw. I work across Python (FastAPI on MongoDB), C#/.NET and TypeScript/React, and ship it to Kubernetes with Helm.
+Backend engineer at EcoVadis, Warsaw. I work across Python (FastAPI on MongoDB), Go, C#/.NET and TypeScript/React, and ship it to Kubernetes with Helm.
 
 Most of what I write lives in private repositories. The public part is the Helm work in [`EcovadisCode/charts`](https://github.com/EcovadisCode/charts):
 
